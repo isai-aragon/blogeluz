@@ -4,7 +4,7 @@ title: "EmocionLUZ"
 description: "Construimos espacios con Emoción a travez de la LUZ. Conocé más de nosotros en este blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ""
+baseurl: ''
 google_analytics: 'UA-96543704-2'
 disqus: 'emocionluz'
 mailchimp-list: ''

@@ -5,6 +5,3 @@ _site
 *~
 .jekyll-cache
 vendor/
-Gemfile.lock
-*.gem
-.jekyll-metadata
